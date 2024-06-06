@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHS3/IixfM0Coyb27voL/D/hzijaEodOACBVnJVVV+A9agafeW6UQmupD4PV8rQfaOmFbMp9rp7PIuDnUNN8Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\7000036464\\source\\repos\\ExcelPowerPack\\ExcelPowerPack\\ExcelPowerPack.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\7000036464\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\7000036464\\.nuget\\packages\\documentformat.openxml.features\\3.0.2\\documentformat.openxml.features.3.0.2.nupkg.sha512",
+    "C:\\Users\\7000036464\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\7000036464\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\7000036464\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

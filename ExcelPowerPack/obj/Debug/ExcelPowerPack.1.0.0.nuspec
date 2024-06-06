@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExcelPowerPack</id>
+    <version>1.0.0</version>
+    <authors>ExcelPowerPack</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="DocumentFormat.OpenXml" version="3.0.2" exclude="Build,Analyzers" />
+        <dependency id="DocumentFormat.OpenXml.Features" version="3.0.2" exclude="Build,Analyzers" />
+        <dependency id="DocumentFormat.OpenXml.Framework" version="3.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\7000036464\source\repos\ExcelPowerPack\ExcelPowerPack\bin\Debug\net4.0\ExcelPowerPack.exe" target="lib\net40\ExcelPowerPack.exe" />
+  </files>
+</package>
