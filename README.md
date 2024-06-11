@@ -126,7 +126,7 @@ This library is licensed under the MIT License. Feel free to modify and distribu
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
 ## Contact
-For any questions or support, please contact the author at [your_email@example.com].
+For any questions or support, please contact the author at [masteroflogic.mol@gmail.com].
 
 ---
 This README provides a comprehensive guide to using the `ExcelXmlPowerPack` library, covering all the main functionalities and providing examples for each.
