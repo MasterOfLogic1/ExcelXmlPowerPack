@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExcelXmlPowerPack</id>
+    <version>1.0.0</version>
+    <authors>David Oku</authors>
+    <icon>Static\icon2.png</icon>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/MasterOfLogic1/ExcelXmlPowerPack" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.1">
+        <dependency id="DocumentFormat.OpenXml" version="3.0.2" exclude="Build,Analyzers" />
+        <dependency id="DocumentFormat.OpenXml.Features" version="3.0.2" exclude="Build,Analyzers" />
+        <dependency id="DocumentFormat.OpenXml.Framework" version="3.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net451/Static/icon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\7000036464\source\repos\ExcelPowerPack\ExcelPowerPack\bin\Debug\net451\ExcelXmlPowerPack.dll" target="lib\net451\ExcelXmlPowerPack.dll" />
+    <file src="C:\Users\7000036464\source\repos\ExcelPowerPack\ExcelPowerPack\Static\icon.ico" target="content\Static\icon.ico" />
+    <file src="C:\Users\7000036464\source\repos\ExcelPowerPack\ExcelPowerPack\Static\icon.ico" target="contentFiles\any\net451\Static\icon.ico" />
+    <file src="C:\Users\7000036464\source\repos\ExcelPowerPack\ExcelPowerPack\README.md" target="\README.md" />
+    <file src="C:\Users\7000036464\source\repos\ExcelPowerPack\ExcelPowerPack\Static\icon2.png" target="\Static\icon2.png" />
+  </files>
+</package>
